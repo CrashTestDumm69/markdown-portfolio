@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Time to be **BOLD**
+
+We should not be *tilted*
+
+_And a combination of them will be **DEADLY**_
